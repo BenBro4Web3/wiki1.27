@@ -2,3 +2,5 @@
 !README
 !.gitignore
 !.vscode
+!sftp.json
+sftp.json
